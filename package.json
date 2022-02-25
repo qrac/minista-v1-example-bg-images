@@ -1,0 +1,13 @@
+{
+  "name": "minista-v1-example-bg-images",
+  "private": true,
+  "scripts": {
+    "dev": "minista",
+    "build": "minista build"
+  },
+  "devDependencies": {
+    "minista": "^1.2.0",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
